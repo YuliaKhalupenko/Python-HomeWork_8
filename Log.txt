@@ -12,3 +12,22 @@
 22:28: Info: Новая запись в таблицу "Salary" ID 3: 56355
 22:28: Info: Новая запись в таблицу "Department" ID 3 Отдел: мыыымы Должность: потатаат
 22:28: Info: Запрос на вывод информации
+00:48: Info: Новая запись в таблицу "PI" ID 1 телефон: +7 63256256 Фамилия: lsfvsfvs Имя: vdsvsvs Отчество: vsvsvds
+00:48: Info: Новая запись в таблицу "Salary" ID 1: 65652
+00:48: Info: Новая запись в таблицу "Department" ID 1 Отдел: vsdvss Должность: vssvvss
+00:48: Info: Запрос на вывод информации
+01:08: Info: Запрос на вывод информации
+01:36: Info: Новая запись в таблицу "PI" ID Counter() телефон: +7 255252 Фамилия: v fvfsvs Имя: dv svsvs Отчество: k,ngngfnf
+01:36: Info: Новая запись в таблицу "Salary" ID Counter(): 5255263
+01:37: Info: Новая запись в таблицу "Department" ID Counter() Отдел: fdvfvss Должность: dsfdsfsf
+01:37: Info: Новая запись в таблицу "PI" ID Counter() телефон: +7 5263415 Фамилия: ладвылдмывдмы Имя: мвмвымв Отчество: мымымымы
+01:37: Info: Новая запись в таблицу "Salary" ID Counter(): 41563
+01:37: Info: Новая запись в таблицу "Department" ID Counter() Отдел: падльжв Должность: аколаамы
+01:37: Info: Запрос на вывод информации
+01:43: Info: Новая запись в таблицу "PI" ID <function create_counter.<locals>.func at 0x000001F19A9A3E20> телефон: +7 14526314563 Фамилия: Иванов Имя: Иван Отчество: Иванович
+01:43: Info: Новая запись в таблицу "Salary" ID <function create_counter.<locals>.func at 0x000001F19A9A3E20>: 15263536
+01:43: Info: Новая запись в таблицу "Department" ID <function create_counter.<locals>.func at 0x000001F19A9A3E20> Отдел: ТО Должность: Инженер
+01:43: Info: Новая запись в таблицу "PI" ID <function create_counter.<locals>.func at 0x0000018F92E33E20> телефон: +7 5263563 Фамилия: Петров Имя: Олег Отчество: Петрович
+01:44: Info: Новая запись в таблицу "Salary" ID <function create_counter.<locals>.func at 0x0000018F92E33E20>: 15552
+01:44: Info: Новая запись в таблицу "Department" ID <function create_counter.<locals>.func at 0x0000018F92E33E20> Отдел: Управление Должность: Секретарь
+01:44: Info: Запрос на вывод информации
